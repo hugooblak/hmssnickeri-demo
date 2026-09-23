@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'HMS Snickeri AB',
+	'bransch'        => 'Snickare',
 	'telefon'        => '072-861 56 55',
 	'telefon_tel'    => '+46728615655',
 	'ort'            => 'Vellinge',
